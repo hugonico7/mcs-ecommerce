@@ -5,9 +5,13 @@ Example microservice practice project.
 ## Tech Stack
 
 **1.Observavility**: Logs (Loki,Promtail,Grafana) Metrics (Prometheus,Grafana) Traceability (OpenTelemetry,Jaeger)
+
 **2.Database**: Relational (PostgreSQL) NoSQL (Redis) Full-text(Elasticsearch)
+
 **3.Security**: JWT + Middleware, TLS with gRPC
+
 **4.Testing**: Go Testing, testcontainers-go, Mockery, grpcurl
+
 **5.CI/CD**: Docker, Helm, K8s, GitOps
 
 ## Essentials Microservices for E-commerce System
